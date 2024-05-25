@@ -1,10 +1,3 @@
-# Hamster Kombat: Farming on multiple accounts
-> Contacts: [Telegram](https://t.me/kittenwof)
-
-## Introduction
-
-Hi everyone, today you will be able to run Hamster Kombat in multiple browsers + self-written autoclicker extension.
-
 Donation
 ---
 We accept the following cryptocurrencies:
@@ -20,6 +13,15 @@ We accept the following cryptocurrencies:
 - **BTC**: `122j6k2GTz3roZsiX9H2QAyqec83tmsP6q`
 
 Donations will be used to maintain/save the project.
+
+> Contacts: [Telegram](https://t.me/kittenwof)
+
+## Languages
+[![Russian README](https://raw.githubusercontent.com/hjnilsson/country-flags/master/png100px/ru.png)](README.md) [![English README](https://raw.githubusercontent.com/hjnilsson/country-flags/master/png100px/us.png)](README_EN.md) 
+
+## Introduction
+
+Hi everyone, today you will be able to run Hamster Kombat in multiple browsers + self-written autoclicker extension.
 
 ## What you will need for effective farming:
 
