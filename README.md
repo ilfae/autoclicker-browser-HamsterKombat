@@ -14,15 +14,15 @@
 
 Пожертвования будут использованы для поддержания/сохранения проекта.
 
-# Hamster Kombat: Фарм на нескольких аккаунтах
 > Контакты: [Telegram](https://t.me/kittenwof)
+
+## Languages
+[![Russian README](https://raw.githubusercontent.com/hjnilsson/country-flags/master/png100px/ru.png)](README.md) [![English README](https://raw.githubusercontent.com/hjnilsson/country-flags/master/png100px/us.png)](README_EN.md) 
 
 ## Введение
 
 Всем привет, сегодня вы сможете запустить Hamster Kombat сразу в нескольких браузерах + самописное расширение автокликера.
 
-## Languages
-[![Russian README](https://raw.githubusercontent.com/hjnilsson/country-flags/master/png100px/ru.png)](README.md) [![English README](https://raw.githubusercontent.com/hjnilsson/country-flags/master/png100px/us.png)](README_EN.md) 
 
 ## Что вам понадобиться для эффективного фарма:
 
