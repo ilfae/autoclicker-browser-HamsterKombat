@@ -40,7 +40,7 @@
 ## Шаг 2: Установка автокликера
 
 1. Скачайте самописное расширение автокликера:
-   - [Releases](https://github.com/ilfae/autoclicker-browser-HamsterKombat/releases/tag/autoclicker-browser-HamsterKombat) 
+   - github [Releases](https://github.com/ilfae/autoclicker-browser-HamsterKombat/releases/tag/autoclicker-browser-HamsterKombat) 
    
    ![Автокликер](https://nztcdn.com/files/85120b92-f64c-4787-bc57-776bbd192930.webp)
 
