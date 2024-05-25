@@ -1,4 +1,22 @@
 # Hamster Kombat: Фарм на нескольких аккаунтах
+> Контакты: [Telegram](https://t.me/kittenwof)
+
+Пожертвование
+---
+Мы принимаем следующие криптовалюты:
+
+- **TON**: `UQAC6zTt3t0oNjb51AQcrOazHEzFIHnOj8sOjLPO-GTtCyWl`
+
+- **USDT**(TRC20): `TXzLoiJHAnZc5tL2pyjNdXaF3snmwmg2x5`
+
+- **USDT**(TON): `UQAC6zTt3t0oNjb51AQcrOazHEzFIHnOj8sOjLPO-GTtCyWl`
+
+- **NOTCOIN**(TON): `UQAC6zTt3t0oNjb51AQcrOazHEzFIHnOj8sOjLPO-GTtCyWl`
+
+- **BTC**: `122j6k2GTz3roZsiX9H2QAyqec83tmsP6q`
+
+Пожертвования будут использованы для поддержания/сохранения проекта.
+
 
 ## Введение
 
