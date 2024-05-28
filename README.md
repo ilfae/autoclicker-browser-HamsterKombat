@@ -14,6 +14,8 @@
 
 Пожертвования будут использованы для поддержания/сохранения проекта.
 
+<img src="https://github.com/VemLavarALoucaGamers/vlalg-nimbus/blob/main/editable/github-star.gif" alt="nimbus-star" />
+
 > Контакты: [Telegram](https://t.me/kittenwof)
 
 ## Languages
