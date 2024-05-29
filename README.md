@@ -93,3 +93,9 @@
 ## Заключение
 
 Теперь вы знаете, как фармить токены в Hamster Kombat на нескольких аккаунтах. Удачи! 
+
+---
+
+### 🌟 История звезд
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ilfae/autoclicker-browser-HamsterKombat&type=Date)](https://star-history.com/#ilfae/autoclicker-browser-HamsterKombat&Date)
