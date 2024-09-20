@@ -2,15 +2,10 @@ Donation
 ---
 We accept the following cryptocurrencies:
 
-- **TON**: `UQAC6zTt3t0oNjb51AQcrOazHEzFIHnOj8sOjLPO-GTttCyWl`.
-
-- **USDT**(TRC20): `TXzLoiJHAnZc5tL2pyjNdXaF3snmwmg2x5`
-
-- **USDT**(TON): `UQAC6zTt3t0oNjb51AQcrOazHEzFIHnOj8sOjLPO-GTttCyWl`
-
-- **NOTCOIN**(TON): `UQAC6zTt3t0oNjb51AQcrOazHEzFIHnOj8sOjLPO-GTttCyWl`.
-
-- **BTC**: `122j6k2GTz3roZsiX9H2QAyqec83tmsP6q`
+- **Binance ID** (KittenWoof): `280906050`
+- **Tron** (TRC20): `TDgpGjUPY7V2wrstA74Uq3B7b8BkmvС1zW`
+- **BNB/Ethereum** (BEP20/ERC20): `0x06594b75f08cacc789bc59daf2a4c866265fac77`
+-  **TON/NOT/DOGS**: `EQD5mxRgCuRNLxKxeOjG6r14iSroLF5FtomPnet-sgP5xNJb` MEMO: `106604145`
 
 Donations will be used to maintain/save the project.
 
